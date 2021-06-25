@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="characters">Characters</string>
+    <string name="locations">Locations</string>
+    <string name="episodes">Episodes</string>
+    <string name="character_detail_status_text">Status:</string>
+    <string name="character_detail_species_text">Species:</string>
+    <string name="character_detail_gender_text">Gender:</string>
+    <string name="location_detail_type_text">Type:</string>
+    <string name="location_detail_dimension_text">Dimension:</string>
+    <string name="location_residents_text">Residents:</string>
+    <string name="episode_detail_air_date_text">Air date:</string>
+    <string name="episode_text">Episode:</string>
+    <string name="episode_characters_text">Characters:</string>
+    <string name="character_not_found">Characters are not in database</string>
+    <string name="episodes_not_found">Episodes are not in database</string>
+    <string name="character_episodes_text">Episodes:</string>
+    <string name="character_origin_text">Origin:</string>
+    <string name="character_location_text">Location:</string>
+    <string name="action_search">Search</string>
+    <string name="downloading_data_issue">There is a problem with downloading data</string>
+</resources>
